@@ -1,3 +1,4 @@
+Directories contained in here are not the target files for build, I have included them only for convenience to acces the defintions of the Arduino and freertos libraries.
 
 This directory is intended for project specific (private) libraries.
 PlatformIO will compile them to static libraries and link into executable file.
